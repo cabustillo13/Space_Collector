@@ -26,7 +26,7 @@ And as a result, we can determine for a given instant of time t:
 
 ## 3) CODE :raised_hands:
 
-Just download this reposiory and run our [main.ipynb](https://github.com/cabustillo13/Garbage_Collector/blob/main/main.ipynb).
+Just download this reposiory and run our [main.ipynb](https://github.com/cabustillo13/Space_Collector_Backend/blob/main/BACKEND/main.ipynb).
 
 ## 4) RESULTS ANALYSIS FOR HUMANS:dart:
 
