@@ -1,5 +1,5 @@
-# Space_Collector:earth_americas::rocket:
-NASA Space App Challenge 2021 in **Mendoza, Argentina**
+# Space Collector:earth_americas::rocket:
+We are **Space Collector**, a multidisciplinary group of students and professionals gathered with the shared goal of expanding access to research and spatial information for the community in general.
 
 ![Image 0](https://github.com/cabustillo13/Space_Collector_Backend/blob/main/FRONTEND/demo_results/nasa_0.JPG)
 
