@@ -1,0 +1,41 @@
+
+body {
+    background-color: rgb(3, 0, 32);
+    margin: 20px;
+  }
+
+  .main-nav {
+    width: 33%; 
+    background-color: slategray; 
+    margin: 1cm;
+
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  nav{
+    box-shadow: 5px 10px;
+  }
+  canvas {
+    width: 100vw;
+    height: 100vh;
+  }
+  ul {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  } 
+  h1,h2{
+    margin-top: 1cm;
+    color:whitesmoke
+  }
+
+  p{
+    color: black;
+    margin: 0.75cm;
+  }
+  
