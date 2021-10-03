@@ -1,8 +1,8 @@
-# Space_Collector
-NASA Space App Challenge 2021 in Mendoza
+# Space_Collector:earth_americas::rocket:
+NASA Space App Challenge 2021 in **Mendoza, Argentina**
 <hr>
 
-## 1) BRIEF AEROSPACE PHYSICAL THEORY
+## 1) BRIEF AEROSPACE PHYSICAL THEORY :star:
 A **two-line element set (TLE)** is a data format encoding a list of orbital elements of an Earth-orbiting object for a given point in time, the epoch. 
 Using a suitable prediction formula, the state (position and velocity) at any point in the past or future can be estimated to some accuracy.
 
@@ -10,7 +10,7 @@ The **TLE data representation** is specific to the simplified perturbations mode
 
 The **TLE format** is a de facto standard for distribution of an Earth-orbiting object's orbital elements.
 
-## 2) IMPLEMENTATION
+## 2) IMPLEMENTATION :white_check_mark:
 
 We use **Orbit Predictor:** is a Python library to propagate orbits of Earth-orbiting objects (satellites, ISS, FENGYUN-1C, etc) using TLE (Two-Line Elements set), based on the SGP4 implementation.
 
@@ -24,13 +24,13 @@ And as a result, we can determine for a given instant of time t:
 
 **All the results were applied to our country Argentina (ARG).**
 
-## 3) CODE
+## 3) CODE :raised_hands:
 
 Just download this reposiory and run our [main.ipynb](https://github.com/cabustillo13/Garbage_Collector/blob/main/main.ipynb).
 
-## 4) RESULTS ANALYSIS FOR HUMANS
+## 4) RESULTS ANALYSIS FOR HUMANS:dart:
 
-### 4.1) FENGYUN-1C
+### :satellite: 4.1) FENGYUN-1C
 **When does sat on ARG happen again?**
 - 2021-10-03 22: 12: 22.855151
 
@@ -43,7 +43,7 @@ Just download this reposiory and run our [main.ipynb](https://github.com/cabusti
 False
 
 
-### 4.2) COSMOS-970
+### :satellite: 4.2) COSMOS-970
 **When does the sat happen again on ARG?**
 - 2021-10-03 14: 52: 52.039996
 
@@ -55,7 +55,7 @@ False
 **Did this satellite pass through ARG at that moment?**
 False
 
-### 4.3) RUBIN-8 & PSLV R / B
+### :satellite: 4.3) RUBIN-8 & PSLV R / B
 **When does the sat happen again on ARG?**
 - 2021-10-03 18: 49: 25.065949
 
@@ -67,7 +67,7 @@ False
 **Did this satellite pass through ARG at that moment?**
 False
 
-### 4.4) RUBIN-4 & SL-8 R / B
+### :satellite: 4.4) RUBIN-4 & SL-8 R / B
 **When does the sat happen again on ARG?**
 - 2021-10-03 17: 01: 44.844248
 
@@ -79,7 +79,7 @@ False
 **Did this satellite pass through ARG at that moment?**
 False
 
-### 4.5) MICROSAT-R DEB
+### :satellite: 4.5) MICROSAT-R DEB
 **When does the sat happen again on ARG?**
 - 2021-10-03 20: 34: 28.861189
 
@@ -91,7 +91,7 @@ False
 **Did this satellite pass through ARG at that moment?**
 True
 
-### 4.6) ISS
+### :satellite: 4.6) ISS
 **When does sat on ARG happen again?**
 - 2021-10-03 18: 24: 55.952657
 
@@ -103,7 +103,7 @@ True
 **Did this satellite pass through ARG at that moment?**
 False
 
-## Bibliography
+## Bibliography:speech_balloon:
 
 
 *   [Orbit Predictor](https://github.com/satellogic/orbit-predictor)
